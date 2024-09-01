@@ -34,6 +34,8 @@ MIRYOKU_LAYER_LIST
 
 #include "miryoku_double_tap_guard.dtsi"
 
+#include "zmk-helpers/helper.h"
+#include "zmk-helpers/key-labels/42.h"
 #include "combos.dtsi"
 
 #if defined (MIRYOKU_KLUDGE_MOUSEKEYSPR)

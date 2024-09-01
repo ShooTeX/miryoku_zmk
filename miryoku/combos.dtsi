@@ -6,9 +6,6 @@
   │ LB4 LB3 LB2 LB1 LB0 │ │ RB0 RB1 RB2 RB3 RB4 │
   ╰───────╮ LH2 LH1 LH0 │ │ RH0 RH1 RH2 ╭───────╯
           ╰─────────────╯ ╰─────────────╯ */
-#include "zmk-helpers/helper.h"
-#include "zmk-helpers/key-labels/42.h"
-
 #define COMBO_TERM_FAST 18
 #define COMBO_TERM_SLOW 30
 
